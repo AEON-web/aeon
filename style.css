@@ -208,6 +208,9 @@ a{
     .about{
         margin-top: 200px;
     }
+    .man1{
+        display: none;
+    }
     .man{
         display: none;
         color: white;
